@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+  <rect width="900" height="620" fill="#f7f3ec"/>
+  <rect x="120" y="35" width="660" height="550" rx="28" fill="#fffaf4"/>
+  <rect x="145" y="62" width="610" height="235" rx="22" fill="#d7b8a8"/>
+  <circle cx="178" cy="95" r="20" fill="white"/><text x="170" y="102" font-family="Arial" font-size="20" fill="#172b2a">‹</text>
+  <text x="155" y="345" font-family="Arial" font-size="12" font-weight="700" fill="#28645a" letter-spacing="2">CULTURE</text>
+  <text x="155" y="383" font-family="Arial" font-size="36" font-weight="700" fill="#172b2a">Kyoto</text>
+  <text x="155" y="410" font-family="Arial" font-size="17" fill="#76817e">Japon · ★ 4.8 · 7 jours</text>
+  <text x="155" y="452" font-family="Arial" font-size="15" fill="#53615e">Une parenthèse hors du temps entre temples silencieux,</text>
+  <text x="155" y="475" font-family="Arial" font-size="15" fill="#53615e">jardins ciselés et petites rues pleines d’histoires.</text>
+  <rect x="155" y="505" width="210" height="47" rx="14" fill="#28645a"/><text x="183" y="534" font-family="Arial" font-size="14" font-weight="700" fill="white">Planifier ce voyage</text>
+</svg>
