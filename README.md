@@ -2,6 +2,8 @@
 
 Application de découverte de voyages construite avec Flutter. Elle propose une expérience multi-écrans pour explorer des destinations, ouvrir un détail complet, préparer une demande de voyage et gérer ses préférences d’affichage.
 
+La note détaillée destinée au reviewer est disponible dans [`REVIEWER_NOTE.md`](REVIEWER_NOTE.md).
+
 ## Lancer le projet
 
 Pré-requis : Flutter 3.22+ et Dart 3.4+.
