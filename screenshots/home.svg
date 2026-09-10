@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+  <rect width="900" height="620" fill="#f7f3ec"/>
+  <rect x="70" y="35" width="760" height="550" rx="28" fill="#fffaf4" stroke="#d8e6dd"/>
+  <circle cx="125" cy="88" r="20" fill="#28645a"/><text x="113" y="95" fill="white" font-size="19">✦</text>
+  <text x="160" y="94" font-family="Arial" font-size="19" font-weight="700" fill="#172b2a" letter-spacing="3">ESCAPADES</text>
+  <text x="110" y="168" font-family="Arial" font-size="36" font-weight="700" fill="#172b2a">Le monde est</text>
+  <text x="110" y="210" font-family="Arial" font-size="36" font-weight="700" fill="#172b2a">plus grand que votre routine.</text>
+  <rect x="110" y="245" width="610" height="48" rx="14" fill="white"/><text x="140" y="276" font-family="Arial" font-size="15" fill="#76817e">⌕  Rechercher une destination...</text>
+  <rect x="110" y="317" width="88" height="30" rx="15" fill="#28645a"/><text x="133" y="337" font-family="Arial" font-size="12" fill="white">Tous</text>
+  <rect x="210" y="317" width="112" height="30" rx="15" fill="#e4eee8"/><text x="230" y="337" font-family="Arial" font-size="12" fill="#172b2a">City break</text>
+  <text x="110" y="392" font-family="Arial" font-size="23" font-weight="700" fill="#172b2a">Partir autrement</text>
+  <rect x="110" y="418" width="150" height="125" rx="16" fill="#e7b895"/><rect x="278" y="418" width="150" height="125" rx="16" fill="#c89f8e"/><rect x="446" y="418" width="150" height="125" rx="16" fill="#9fc6c7"/><rect x="614" y="418" width="150" height="125" rx="16" fill="#d9a96e"/>
+  <text x="125" y="570" font-family="Arial" font-size="12" fill="#172b2a">Explorer · détail · planifier</text>
+</svg>
