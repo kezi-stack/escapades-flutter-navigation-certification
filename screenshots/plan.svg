@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+  <rect width="900" height="620" fill="#f7f3ec"/>
+  <rect x="170" y="35" width="560" height="550" rx="28" fill="#fffaf4"/>
+  <text x="215" y="96" font-family="Arial" font-size="31" font-weight="700" fill="#172b2a">Planifier une escapade</text>
+  <text x="215" y="125" font-family="Arial" font-size="14" fill="#76817e">Quelques détails pour préparer votre itinéraire.</text>
+  <text x="215" y="171" font-family="Arial" font-size="13" font-weight="700" fill="#172b2a">Votre nom</text><rect x="215" y="181" width="470" height="42" rx="12" fill="#f4f1eb"/>
+  <text x="215" y="260" font-family="Arial" font-size="13" font-weight="700" fill="#172b2a">Votre adresse email</text><rect x="215" y="270" width="470" height="42" rx="12" fill="#f4f1eb"/>
+  <text x="215" y="349" font-family="Arial" font-size="13" font-weight="700" fill="#172b2a">Destination souhaitée</text><rect x="215" y="359" width="470" height="42" rx="12" fill="#f4f1eb"/>
+  <text x="215" y="438" font-family="Arial" font-size="13" font-weight="700" fill="#172b2a">Date de départ</text><rect x="215" y="448" width="470" height="42" rx="12" fill="#f4f1eb"/>
+  <rect x="215" y="515" width="230" height="46" rx="13" fill="#28645a"/><text x="250" y="544" font-family="Arial" font-size="14" font-weight="700" fill="white">Envoyer ma demande</text>
+</svg>
