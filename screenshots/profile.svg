@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+  <rect width="900" height="620" fill="#f7f3ec"/>
+  <rect x="170" y="35" width="560" height="550" rx="28" fill="#fffaf4"/>
+  <text x="215" y="96" font-family="Arial" font-size="31" font-weight="700" fill="#172b2a">Mon carnet</text>
+  <circle cx="250" cy="165" r="34" fill="#ddefe5"/><text x="231" y="173" font-family="Arial" font-size="17" font-weight="700" fill="#28645a">CM</text>
+  <text x="305" y="160" font-family="Arial" font-size="18" font-weight="700" fill="#172b2a">Camille Martin</text><text x="305" y="184" font-family="Arial" font-size="14" fill="#76817e">Voyageuse curieuse</text>
+  <rect x="215" y="230" width="220" height="92" rx="18" fill="#f2eee6"/><text x="237" y="270" font-family="Arial" font-size="27" font-weight="700" fill="#172b2a">03</text><text x="237" y="296" font-family="Arial" font-size="12" fill="#76817e">Escapades</text>
+  <rect x="455" y="230" width="220" height="92" rx="18" fill="#f2eee6"/><text x="477" y="270" font-family="Arial" font-size="27" font-weight="700" fill="#172b2a">08</text><text x="477" y="296" font-family="Arial" font-size="12" fill="#76817e">Pays visités</text>
+  <text x="215" y="380" font-family="Arial" font-size="16" font-weight="700" fill="#172b2a">⌑  Mes destinations</text><text x="215" y="405" font-family="Arial" font-size="13" fill="#76817e">Vos inspirations sauvegardées</text>
+  <line x1="215" y1="430" x2="685" y2="430" stroke="#e6e0d7"/>
+  <text x="215" y="475" font-family="Arial" font-size="16" font-weight="700" fill="#172b2a">☼  Apparence</text><text x="215" y="500" font-family="Arial" font-size="13" fill="#76817e">Thème clair / sombre</text>
+</svg>
