@@ -1,0 +1,80 @@
+[
+  {
+    "id": "lisbon",
+    "name": "Lisbonne",
+    "country": "Portugal",
+    "category": "City break",
+    "description": "Des façades colorées, des tramways jaunes et la lumière de l’Atlantique. Lisbonne se découvre à pied, quartier après quartier.",
+    "duration": "4 jours",
+    "price": 680,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=1200&q=85",
+    "accent": "F4C6A8",
+    "highlights": ["Alfama", "Belém", "Sintra"]
+  },
+  {
+    "id": "kyoto",
+    "name": "Kyoto",
+    "country": "Japon",
+    "category": "Culture",
+    "description": "Une parenthèse hors du temps entre temples silencieux, jardins ciselés et petites rues où chaque détour raconte une histoire.",
+    "duration": "7 jours",
+    "price": 1890,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=85",
+    "accent": "D7B8A8",
+    "highlights": ["Gion", "Fushimi Inari", "Arashiyama"]
+  },
+  {
+    "id": "santorini",
+    "name": "Santorin",
+    "country": "Grèce",
+    "category": "Mer",
+    "description": "Des villages blancs suspendus au-dessus d’une mer bleu profond, pour ralentir et regarder le soleil descendre.",
+    "duration": "5 jours",
+    "price": 1240,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1200&q=85",
+    "accent": "B7D7D9",
+    "highlights": ["Oia", "Fira", "Akrotiri"]
+  },
+  {
+    "id": "marrakech",
+    "name": "Marrakech",
+    "country": "Maroc",
+    "category": "Évasion",
+    "description": "Une ville sensorielle faite de patios frais, de jardins secrets et d’épices qui flottent dans l’air des souks.",
+    "duration": "4 jours",
+    "price": 790,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?auto=format&fit=crop&w=1200&q=85",
+    "accent": "E3B27B",
+    "highlights": ["Médina", "Majorelle", "Agafay"]
+  },
+  {
+    "id": "reykjavik",
+    "name": "Reykjavik",
+    "country": "Islande",
+    "category": "Nature",
+    "description": "Une base douce et colorée pour explorer les paysages bruts de l’Islande, des cascades aux sources chaudes.",
+    "duration": "6 jours",
+    "price": 1520,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1520769945061-0a448c463865?auto=format&fit=crop&w=1200&q=85",
+    "accent": "A9C6D8",
+    "highlights": ["Blue Lagoon", "Cercle d’or", "Vík"]
+  },
+  {
+    "id": "patagonia",
+    "name": "Patagonie",
+    "country": "Argentine",
+    "category": "Nature",
+    "description": "L’horizon s’ouvre sur des glaciers, des lacs turquoise et des sentiers qui donnent une autre mesure au temps.",
+    "duration": "10 jours",
+    "price": 2380,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1200&q=85",
+    "accent": "AFC9B3",
+    "highlights": ["El Chaltén", "Perito Moreno", "Torres del Paine"]
+  }
+]
